@@ -4,3 +4,18 @@ This is my first from scratch personal python program.
 I run it on a cron to convert my FLAC files into ALAC files
 so I can have lossless audio on my iDevices.
 
+TODO:
+
+Looks like the github user account I made is typod:  mainbao, not mianbao
+
+I ran this:
+git remote add origin https://github.com/mianbao/FLAC2m4a.git
+servy:~/Scripts/FLAC2m4a> git push origin master
+Username for 'https://github.com': mainbao^C
+
+So I need to sort that out...
+
+Also my passwd on github is stored in lastpass and I don't actually know it 
+myself.  That could be a problem too.
+
+
